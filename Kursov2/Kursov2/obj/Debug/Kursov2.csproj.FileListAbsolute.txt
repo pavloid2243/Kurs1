@@ -1,0 +1,10 @@
+C:\Users\fedtu\source\repos\Kursov2\Kursov2\bin\Debug\Kursov2.exe.config
+C:\Users\fedtu\source\repos\Kursov2\Kursov2\bin\Debug\Kursov2.exe
+C:\Users\fedtu\source\repos\Kursov2\Kursov2\bin\Debug\Kursov2.pdb
+C:\Users\fedtu\source\repos\Kursov2\Kursov2\obj\Debug\Kursov2.csproj.AssemblyReference.cache
+C:\Users\fedtu\source\repos\Kursov2\Kursov2\obj\Debug\Kursov2.Form1.resources
+C:\Users\fedtu\source\repos\Kursov2\Kursov2\obj\Debug\Kursov2.Properties.Resources.resources
+C:\Users\fedtu\source\repos\Kursov2\Kursov2\obj\Debug\Kursov2.csproj.GenerateResource.cache
+C:\Users\fedtu\source\repos\Kursov2\Kursov2\obj\Debug\Kursov2.csproj.CoreCompileInputs.cache
+C:\Users\fedtu\source\repos\Kursov2\Kursov2\obj\Debug\Kursov2.exe
+C:\Users\fedtu\source\repos\Kursov2\Kursov2\obj\Debug\Kursov2.pdb
